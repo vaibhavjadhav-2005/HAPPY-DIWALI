@@ -1,1 +1,53 @@
 Diwali.css
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(75, 1, 75);
+    background-image: url("https://img.magnific.com/premium-photo/festive-purple-diwali-background-with-lit-diyas-mandala-motif_1039770-869.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+h3 {
+    margin-top: 100px;
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 3px black;
+}
+
+.diwali {
+    background-color: transparent;
+    padding: 10px 10px 100px 10px;
+    margin: 100px 420px 100px 420px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px 3px black;
+}
+
+p {
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
+
+img {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+.button {
+    padding: 20px;
+        width: 300px;
+        background-color: orangered;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px black;
+        border: 1px solid purple;
+}
