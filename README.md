@@ -1,5 +1,3 @@
-# HAPPY-DIWALI
-HAPPY DIWALI
 <!DOCTYPE html>
 <html lang="en">
 <head>
